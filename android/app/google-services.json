@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532562605363",
+    "project_id": "homeservice-flutter-project",
+    "storage_bucket": "homeservice-flutter-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532562605363:android:1acf196bff8ddab1f3fa46",
+        "android_client_info": {
+          "package_name": "com.example.homeservice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPi1dKYTNECDbWM1ifgwwcBsyYv0DPQO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
